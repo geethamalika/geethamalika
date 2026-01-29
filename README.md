@@ -46,7 +46,8 @@ Causal analysis using NHANES
 
 ### Beyond Work
 
-I enjoy reading. Favorite book: *The Emperor of All Maladies: A Biography of Cancer* by Siddhartha Mukherjee.
+I enjoy reading. 
+Favorite book: *The Emperor of All Maladies: A Biography of Cancer* by Siddhartha Mukherjee.
 
 ---
 
