@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=200&section=header&text=Geetha%20Nallamotu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PharmD,%20MPH&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Geetha%20Nallamotu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PharmD,%20MPH&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 *Epidemiologist decoding the chaos of Real-world data*
 
