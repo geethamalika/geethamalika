@@ -1,8 +1,6 @@
 <div align="center">
 
-# Geetha Malika
-
-**PharmD, MPH**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=200&section=header&text=Geetha%20Nallamotu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PharmD,%20MPH&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 *Epidemiologist decoding the chaos of real-world data*
 
@@ -55,5 +53,7 @@ I enjoy reading. Favorite book: *The Emperor of All Maladies: A Biography of Can
 <div align="center">
 
 *Open to collaborations in causal inference and oncology RWE*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=100&section=footer" width="100%"/>
 
 </div>
