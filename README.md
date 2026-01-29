@@ -12,7 +12,7 @@
 
 ### About Me
 
-I am an epidemiologist and RWE data scientist who transforms messy observational healthcare data into causal evidence. My work sits at the intersection of **causal inference**, **Bayesian methods**, and **clinical research** with a focus on oncology and pregnancy safety.
+Experienced Real-World Evidence (RWE) and Health Economics & Outcomes Research (HEOR) professional with a career spanning direct patient care, pharmacovigilance, and real-world data analytics. Skilled in combining clinical, epidemiologic, biostatistical, and data science perspectives to design and execute global RWD studies.
 
 ---
 
