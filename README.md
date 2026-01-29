@@ -1,6 +1,6 @@
 <div align="center">
 
-# Geetha Nallamotu
+# Geetha Malika
 
 **PharmD, MPH**
 
