@@ -21,9 +21,10 @@ Experienced Real-World Evidence (RWE) and Health Economics & Outcomes Research (
 ```
 Causal Inference     Target trials, MSMs, G-formula, IPTW, IV
 Bayesian Methods     Hierarchical models, Stan, PyMC
-Therapeutic Areas    Oncology, pregnancy pharmacoepi, drug safety
+RWE projects         Descriptive, Comparative effectiveness, RCT duplication, ECA, Prediction/Risk modeling 
+Therapeutic Areas    Oncology, Cardiology, Endocrinology, Rare Disease, Drug Safety
 Data Sources         Claims, EHR, SEER, NHANES, OMOP CDM
-Languages            Python, R, SAS, SQL, Stata
+Languages            Python, R, SQL, Stata
 ```
 
 ---
