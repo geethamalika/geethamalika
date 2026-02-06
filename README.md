@@ -37,6 +37,9 @@ Training series: target trials, MSMs, G-formula, SNMs
 **[Pregnancy Cohort Toolkit](https://github.com/geethamalika/pregnancy-cohort-r)**  
 R tools for pregnancy cohorts from claims/EHR
 
+**[Clone–censor–weight (CCW)](https://github.com/geethamalika/clone_censor_weight_immortalbias)**  
+Immortal time bias — simulated data, Python
+
 **[GFORMULA-SAS](https://github.com/geethamalika/GFORMULA-SAS)**  
 Parametric g-formula for time-varying treatments
 
