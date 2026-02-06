@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Geetha%20Malika&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PharmD,%20MPH&descSize=20&descAlignY=55&descAlign=50" width="100%" alt="Header"/>
 
-**Epidemiologist · Real-world evidence · Causal inference**
+**Epidemiologist decoding the chaos of real-world data**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-geetha-nallamotu-pharmd-mph-1668a1129/)
 
