@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Geetha%20Malika&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PharmD,%20MPH&descSize=20&descAlignY=55&descAlign=50" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Geetha%20Malika&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PharmD,%20MPH&descSize=20&descAlignY=55&descAlign=50" width="100%" alt="Geetha Malika, PharmD, MPH"/>
 
 **Epidemiologist decoding the chaos of real-world data**
 
@@ -10,47 +10,46 @@
 
 ---
 
-### About me
+### About Me
 
-RWE and HEOR professional with experience across direct patient care, pharmacovigilance, and real-world data analytics. I combine clinical, epidemiologic, biostatistical, and data science perspectives to design and run global RWD studies.
+Real-World Evidence (RWE) and Health Economics & Outcomes Research (HEOR) professional with experience across direct patient care, pharmacovigilance, and real-world data analytics. I design and execute global RWD studies using rigorous epidemiologic and causal inference methods, with a focus on reproducible analysis and clear interpretation for decision-making.
 
 ---
 
-### What I work on
+### Research & Methods
 
-| Focus | Topics |
-|-------|--------|
-| **Causal inference** | Target trials, MSMs, g-formula, IPTW, IV |
+| Area | Focus |
+|------|--------|
+| **Causal inference** | Target trial emulation, MSMs, g-formula, IPTW, instrumental variables |
 | **Bayesian methods** | Hierarchical models, Stan, PyMC |
-| **RWE** | Comparative effectiveness, RCT duplication, ECA, prediction/risk modeling |
-| **Therapeutic areas** | Oncology, cardiology, endocrinology, rare disease, drug safety |
-| **Data** | Claims, EHR, SEER, NHANES, OMOP CDM |
-| **Tools** | Python, R, SQL, Stata |
+| **RWE & comparative effectiveness** | RCT duplication, emulation, prediction and risk modeling |
+| **Data** | Claims, EHR, registries (SEER), NHANES, OMOP CDM |
+| **Implementation** | Python, R, SQL, Stata |
 
 ---
 
-### Featured projects
+### Selected Projects
 
 | Project | Description |
-|---------|-------------|
-| [Causal Inference Tutorials](https://github.com/geethamalika/causal-inference-tutorials) | Target trials, MSMs, g-formula, SNMs |
-| [Pregnancy Cohort Toolkit](https://github.com/geethamalika/pregnancy-cohort-r) | R tools for pregnancy cohorts from claims/EHR |
-| [Clone–censor–weight (CCW)](https://github.com/geethamalika/clone_censor_weight_immortalbias) | Immortal time bias — simulated data, Python |
-| [GFORMULA-SAS](https://github.com/geethamalika/GFORMULA-SAS) | Parametric g-formula for time-varying treatments |
-| [Depression and Obesity](https://github.com/geethamalika/Impact_of_Depression_on_Obesity) | Causal analysis with NHANES |
+|--------|-------------|
+| [Causal Inference Tutorials](https://github.com/geethamalika/causal-inference-tutorials) | Target trial emulation, MSMs, g-formula, SNMs (Python) |
+| [Pregnancy Cohort Toolkit](https://github.com/geethamalika/pregnancy-cohort-r) | R toolkit for pregnancy cohort construction from claims/EHR |
+| [Clone–censor–weight (CCW)](https://github.com/geethamalika/clone_censor_weight_immortalbias) | Immortal time bias: clone–censor–weight with simulated data (Python) |
+| [GFORMULA-SAS](https://github.com/geethamalika/GFORMULA-SAS) | Parametric g-formula for time-varying treatments and confounders (SAS) |
+| [Depression and Obesity](https://github.com/geethamalika/Impact_of_Depression_on_Obesity) | Causal analysis of depression and obesity using NHANES |
 
 ---
 
-### Beyond work
+### Beyond Work
 
-Favorite book: *The Emperor of All Maladies: A Biography of Cancer* by Siddhartha Mukherjee.
+*The Emperor of All Maladies: A Biography of Cancer* — Siddhartha Mukherjee
 
 ---
 
 <div align="center">
 
-*Open to collaborations in causal inference and oncology RWE.*
+Interested in causal inference, real-world evidence, and oncology applications.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=100&section=footer" width="100%" alt=""/>
 
 </div>
