@@ -14,10 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-geetha-nallamotu-pharmd-mph-1668a1129/)
 
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/Stata-CC2927?style=for-the-badge&logo=stata&logoColor=white" alt="Stata"/> <img src="https://img.shields.io/badge/Causal%20Inference-1565C0?style=for-the-badge" alt="Causal Inference"/> <img src="https://img.shields.io/badge/RWE-2E7D32?style=for-the-badge" alt="RWE"/>
-
 </div>
 
 ---
